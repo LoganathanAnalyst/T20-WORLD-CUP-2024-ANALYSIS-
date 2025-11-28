@@ -2,12 +2,14 @@
 
 
 🏏 T20 World Cup 2024 
+
 Power BI Analysis Dashboard A complete,
 insight-driven cricket analytics project
 
 ------------------------------------------------------------------------
 
 🌟 Project Overview
+
 This dashboard transforms raw T20 World Cup 2024
 data into actionable, visually rich insights. Designed with a modern BI
 style, it highlights team performance, match trends, and player
@@ -35,6 +37,7 @@ scoring patterns
 ------------------------------------------------------------------------
 
 📁 Files in This Repository 
+
 T20WORLDCUP2024ANALYSIS-LOGANATHAN.pbix 
 Full Power BI report 
 dataset  Raw cleaned cricket data 
@@ -42,7 +45,8 @@ README.md — Setup guide & project details
 
 ------------------------------------------------------------------------
 
-⚙️ How to Use 1. Download the 
+⚙️ How to Use 
+1. Download the PBIX
 2. Open using Power BI Desktop
 3. Load/refresh the dataset (if included) 
 4. Interact with slicers to
@@ -52,6 +56,7 @@ comparisons
 ------------------------------------------------------------------------
 
 🧠 Skills Demonstrated 
+
 Power BI data modeling 
 Advanced DAX measures 
 Visual storytelling & layout design 
@@ -61,6 +66,7 @@ Insight extraction from sports data
 ------------------------------------------------------------------------
 
 👤 About the Developer
+
 Hi, I’m Loganathan.
 A Data Analyst & Power BI Developer passionate about analytics and cricket data storytelling.
 This dashboard is part of my portfolio showcasing my expertise in business
