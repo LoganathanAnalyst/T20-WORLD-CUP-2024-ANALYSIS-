@@ -1,7 +1,7 @@
 <img width="400" height="400" alt="T20" src="https://github.com/user-attachments/assets/5f25636b-6514-41fd-847b-cb34bdbb58a6" />
 
 
-🏏 T20 World Cup 2024
+🏏 T20 World Cup 2024 
 
 Power BI Analysis Dashboard A complete,
 insight-driven cricket analytics project.
