@@ -4,7 +4,7 @@
 🏏 T20 World Cup 2024 
 
 Power BI Analysis Dashboard A complete,
-insight-driven cricket analytics project.
+insight-driven cricket analytics project. 
 
 ------------------------------------------------------------------------
 
